@@ -9,7 +9,7 @@ For a system-wide installation we add `export PATH=$PATH:/usr/local/go/bin` to `
 **Some command explantion** 
 ```
 #specify Go version 
-sh goBinaryInstall.sh --version 1.18.2
+sh goBinaryInstall.sh --version 1.18.3
 
 #remove Go 
 sh goBinaryInstall.sh --remove
