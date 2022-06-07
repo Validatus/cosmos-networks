@@ -1,0 +1,1 @@
+# VWG - Validatus Writing Guides
